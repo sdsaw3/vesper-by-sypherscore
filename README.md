@@ -35,8 +35,22 @@ More than **$2B** has been traded through Vesper since launch.
 | PopDEX | Crypto | Market making, up to four markets |
 | Perpl | Crypto | Market making |
 | Phoenix | Crypto | Market making |
+| TxFlow (maker) | Crypto, gold, indices | Market making on TxFlow alone |
+| BULK | Crypto (Solana) | Market making |
 
 Setup guides for each exchange: **https://sypherscore.com/vesper/guides**
+
+## Airdrop and points farming guides
+
+Most perp DEXs run weekly points programmes. They reward real liquidity and filter wash volume, split wallets and referral rings. Vesper farms them by quoting as a maker on your own account, around the clock.
+
+- [Every live perp DEX points programme (hub)](https://sypherscore.com/perp-dex-airdrop-farming)
+- [How to farm QFEX](https://sypherscore.com/how-to-farm-qfex) — $216.5M traded on QFEX through Vesper by 149 people in 8 weeks
+- [Lighter airdrop](https://sypherscore.com/lighter-airdrop) · [Arcus airdrop](https://sypherscore.com/arcus-airdrop) · [RISEx airdrop](https://sypherscore.com/risex-airdrop) · [TxFlow airdrop](https://sypherscore.com/txflow-airdrop) · [Ondo Perps airdrop](https://sypherscore.com/ondo-perps-airdrop) · [BULK airdrop](https://sypherscore.com/bulk-airdrop) · [Robinhood Chain airdrop](https://sypherscore.com/robinhood-chain-airdrop)
+- [Best perp DEX airdrop farming bots compared](https://sypherscore.com/best-perp-dex-airdrop-farming-bots)
+- [Perp DEX points calculator](https://sypherscore.com/perp-dex-points-calculator)
+
+Guides are also available in 中文, 한국어, Русский, Español and Português (Brasil). Full notes: [docs/airdrop-farming.md](docs/airdrop-farming.md).
 
 ## How it works
 
